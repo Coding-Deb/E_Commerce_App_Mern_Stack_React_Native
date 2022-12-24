@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Frontend",
+    "slug": "Frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Shopping.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/poster_Image.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF24C"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Shopping.jpg",
+        "backgroundColor": "#FFF24C"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Shopping.jpg"
+    }
+  }
+}
